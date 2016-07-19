@@ -52,7 +52,12 @@
 
 ### Regularization
 
-* **Overfitting:** If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples or the test data.
+* In logistic regression, there are three ways that an algorithm might try to fit the data. Two of these fits are undesired (Underfitting and Overfitting). 
+
+* **Underfitting** is when a straight line fitted on the data causing the model to have **high bias**, unable to fit the training set well. 
+
+* **Overfitting:** If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples or the test data. This is also referred to as a model with **high variance**.
+
 
 
 

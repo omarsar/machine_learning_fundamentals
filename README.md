@@ -68,8 +68,9 @@
 
 * In the normal equation, regularization also takes care of the non-invertible issue when there may be more features than examples in a training dataset.
 
+* Simple logistic regression is only able to find a linear decision boundary. For such cases where the data needs a non-linear hypothesis curve, one way to solve this is to use higher order polynomial features with regularization. 
 
-
+* It is important to note that when implementing regularization, the first parameter is left untouched as modifying introduce some problem when creating the decision boundary.
 
 
 

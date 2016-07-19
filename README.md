@@ -56,7 +56,17 @@
 
 * **Underfitting** is when a straight line fitted on the data causing the model to have **high bias**, unable to fit the training set well. 
 
-* **Overfitting:** If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples or the test data. This is also referred to as a model with **high variance**.
+* **Overfitting:** If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples or the test data. This is also referred to as a model with **high variance**. This can sometimes can occur when we have too many features in the training dataset.
+
+* Addressing overfitting:
+  - Reduce number of features (manually and automatically)
+  - Regularization (keep all features but reduce value of parameters; this works well with datasets that have a lot features that are all contributing to predict the labels.)
+
+* Smaller values to the parameters produces smoother and simpler hypothesis curve, which is desired when having high-order degree polynomial hypothesis. This enable for less over-fitting. 
+
+* If regularization parameter is too large, the algorithm results in under-fitting (fails to fit even the training dataset). This happens because the first parameters are also being penalized which produces a hypothesis to be equal or close to the first parameter, which renders an arbitrary straight line through the data. In other words, the model has a preconception that the hypothesis relies heavily on the first parameter. 
+
+* In the normal equation, regularization also takes care of the non-invertible issue when there may be more features than examples in a training dataset.
 
 
 

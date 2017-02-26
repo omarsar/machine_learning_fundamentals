@@ -1,6 +1,6 @@
 ### :point_right: About
 
-A useful handbook for getting to know the fundamentals of **Machine Learning**. I am preparing this handbook for reference puroposes, but it can be used for educational purposes. Feel free to make pull requests as there might be plenty of grammatical errors, spelling errors and even inconsistencies in the content. I will try to update it as frequently as possible. I am also keeping a log of my continuous updates [here](https://github.com/omarsar/machine_learning_fundamentals/blob/master/log.md). Who knows, perhaps it might even become an actual book. It is tough doing this along, so I am definitely giving credits for any contributions. 
+This is a friendly handbook which is useful for familiarizing yourself with the basics of **Machine Learning**. I am preparing this handbook as part of ["The Bit Series"](http://elvissaravia.com/books/). Read more about our manifesto [here](http://elvissaravia.com/books/). Also, feel free to submit pull requests as there might be plenty of grammatical errors, spelling errors, and even inconsistencies in the content. I will try to update the book as frequently as possible. I am also keeping a log of my continuous updates [here](https://github.com/omarsar/os/blob/master/log.md). It is tough doing this alone, so I am definitely crediting anyone for their contributions.
 
 ### :point_right: Table of Content
 
@@ -11,9 +11,16 @@ A useful handbook for getting to know the fundamentals of **Machine Learning**. 
 - Chapter 5 - [Regularization](https://github.com/omarsar/machine_learning_fundamentals/blob/master/5.%20Regularization.md)
 - Chapter 6 - [Neural Networks](https://github.com/omarsar/machine_learning_fundamentals/blob/master/6.%20Neural%20Networks.md)
 
+### :point_right: Status
+- Draft stage
+
 ### :point_right: TODO List
 - Add examples through images. 
 - Work on readability using boldface, italics, tables, etc.
 
 ### :point_right: Contributor
 - [Elvis Saravia](http://elvissaravia.com)
+- Email: ellfae@gmail.com
+
+### :point_right: Potential book cover
+![alt-text-2](https://github.com/omarsar/omarsar.github.io/blob/master/images/machine-learning.png?raw=true)

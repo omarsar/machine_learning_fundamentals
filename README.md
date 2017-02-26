@@ -27,4 +27,5 @@ This is a friendly handbook which is useful for familiarizing yourself with the 
 
 ### :point_right: More from "The Bit Series"
 ![alt-text-1](https://github.com/omarsar/omarsar.github.io/blob/master/images/os.png?raw=true)
-[Operating Systems: A Friendly Handbook]
+
+- [Operating Systems: A Friendly Handbook](https://github.com/omarsar/os)
